@@ -15,7 +15,7 @@ The dataset contains two files:
 
 ## Data Format
 
-### Policy-simple.jsonl
+### Policy.jsonl
 
 Each line represents one insurance policy.
 
@@ -24,7 +24,7 @@ Each line represents one insurance policy.
 | `id` | String | Unique identifier of the insurance policy. |
 | `policy` | String | Full text of the insurance policy. |
 
-### Q&A-simple.json
+### Q&A.json
 
 Each item represents one claim adjudication instance.
 
