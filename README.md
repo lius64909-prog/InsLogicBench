@@ -10,8 +10,8 @@ The dataset is available on Google Drive:
 
 The dataset contains two files:
 
-- `Policy-simple.jsonl`: Insurance policy documents.
-- `Q&A-simple.json`: Claim adjudication QA instances and annotations.
+- `Policy.jsonl`: Insurance policy documents.
+- `Q&A.json`: Claim adjudication QA instances and annotations.
 
 ## Data Format
 
